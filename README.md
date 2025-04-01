@@ -17,7 +17,7 @@ Se tomó una muestra de 10 canciones de una playlist de Spotify y se registraron
 ### 4. Histograma de frecuencias
 Se generó un histograma para visualizar la distribución de las duraciones de las canciones.
 
-## Resultado del histograma
+#### Resultado del histograma
 ¿Se parece a alguna distribución conocida?
 A simple vista de la gráfica, la distribución muestra una concentración de valores alrededor de la media, pero también presenta una dispersión notable hacia los extremos. Esto no es típico de una distribución normal, que tiende a ser más simétrica, por lo que podría estar más cerca de una distribución log-normal o gamma, que pueden mostrar colas más largas y un comportamiento asimétrico.
 
