@@ -16,6 +16,8 @@ env\Scripts\activate     # En Windows
 ### Instalar dependencias
 pip install numpy matplotlib fitter
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Análisis de la Duración de Canciones en una Playlist de Spotify
 
 ### 1. Selección del proceso o fenómeno
