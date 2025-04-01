@@ -1,5 +1,7 @@
 # Actividad-4.1.-Procesos-de-la-vida-real-como-distribuciones-de-probabilidad
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## ¿Cómo correr el código?
 
 ### Verificar que python y pip estén instalados
