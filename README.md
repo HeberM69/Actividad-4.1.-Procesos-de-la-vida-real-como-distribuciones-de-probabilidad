@@ -5,13 +5,13 @@
 ## ¿Cómo correr el código?
 
 ### Verificar que python y pip estén instalados
-python --version
-pip --version
+<br>python --version
+<br>pip --version
 
 ### Crear entorno
-python -m venv env
-source env/bin/activate  # En macOS/Linux
-env\Scripts\activate     # En Windows
+<br>python -m venv env
+<br>source env/bin/activate  # En macOS/Linux
+<br>env\Scripts\activate     # En Windows
 
 ### Instalar dependencias
 pip install numpy matplotlib fitter
