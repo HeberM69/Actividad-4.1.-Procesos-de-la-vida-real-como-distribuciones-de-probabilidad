@@ -5,7 +5,7 @@
 ## ¿Cómo correr el código?
 
 ### Verificar que python y pip estén instalados
-<br>python --version
+python --version
 <br>pip --version
 
 ### Crear entorno
