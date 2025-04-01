@@ -9,9 +9,9 @@
 <br>pip --version
 
 ### Crear entorno
-<br>python -m venv env
-<br>source env/bin/activate  # En macOS/Linux
-<br>env\Scripts\activate     # En Windows
+python -m venv env<br>
+source env/bin/activate  # En macOS/Linux<br>
+env\Scripts\activate     # En Windows
 
 ### Instalar dependencias
 pip install numpy matplotlib fitter
@@ -44,16 +44,16 @@ A simple vista de la gráfica, la distribución muestra una concentración de va
 
 ### 5. Ajuste de distribución con Fitter
 Para confirmar la mejor distribución que ajusta a los datos, se utilizó la librería Fitter en Python. Se compararon varias distribuciones comunes:
-Normal
-Exponencial
-Log-normal
-Gamma
+<br>Normal
+<br>Exponencial
+<br>Log-normal
+<br>Gamma
 
 ### 6. Parámetros de la distribución óptima
 Tras ejecutar Fitter, la mejor distribución encontrada fue log-normal con los siguientes parámetros:
-s (Forma): 10.172
-loc (Localización): 191.0
-scale (Escala): 29.586
+<br>s (Forma): 10.172
+<br>loc (Localización): 191.0
+<br>scale (Escala): 29.586
 
 ### 7. Reflexión y conclusiones
 #### ¿Cuáles son los parámetros de la distribución?
