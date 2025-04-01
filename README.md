@@ -1,5 +1,19 @@
 # Actividad-4.1.-Procesos-de-la-vida-real-como-distribuciones-de-probabilidad
 
+## ¿Cómo correr el código?
+
+### Verificar que python y pip estén instalados
+python --version
+pip --version
+
+### Crear entorno
+python -m venv env
+source env/bin/activate  # En macOS/Linux
+env\Scripts\activate     # En Windows
+
+### Instalar dependencias
+pip install numpy matplotlib fitter
+
 ## Análisis de la Duración de Canciones en una Playlist de Spotify
 
 ### 1. Selección del proceso o fenómeno
